@@ -9,7 +9,7 @@ export default function about() {
             <MDBCol sm="1">
             </MDBCol>
             <MDBCol sm="10">
-                <p className="_did_you_know">DID YOU KNOW?</p>
+                <p className="_did_you_know1">DID YOU KNOW?</p>
                 <p className="_reviews_percentage">Displaying reviews on a product or service has shown <br />to increase conversions by a whopping 270%!</p>
                 <img src={Separator} className="_Separator_img" />
                 {/* microphone */}

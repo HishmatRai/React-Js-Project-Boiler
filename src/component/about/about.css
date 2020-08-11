@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-._did_you_know {
+._did_you_know1 {
     text-align: center;
     font-size: 46px !important;
     color: rgb(12, 129, 187);
@@ -49,5 +49,10 @@
     }
     ._microphone_1_txt {
         padding-left: 15px !important;
+    }
+    ._did_you_know1 {
+       
+        font-size: 26px !important;
+      
     }
 }

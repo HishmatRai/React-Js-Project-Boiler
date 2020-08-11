@@ -14,7 +14,7 @@ export default function setisfaction() {
                         <img src={Badge} className="_Satisfaction_img" />
                     </MDBCol>
                     <MDBCol sm="9">
-                        <p className="_Satisfaction_heading">100% Satisfaction Guarantee</p>
+                        <p className="_Satisfaction_heading1">100% Satisfaction Guarantee</p>
                         <p className="_Satisfaction_desc">You are fully protected by our 100% Satisfaction-Guarantee. Our free plan will remain free forever. On our paid plans, we don't charge until you get at least two (2) verified reviews on your first audiobook listing. It's a win-win.</p>
                         <br />
                         <p className="_footer_link">

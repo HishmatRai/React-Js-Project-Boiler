@@ -8,7 +8,7 @@
     margin-top: 20px;
 }
 
-._Satisfaction_heading {
+._Satisfaction_heading1 {
     font-size: 36px;
     color: rgb(12, 129, 187);
     font-family: Lato;
@@ -37,12 +37,14 @@
         margin-left: 30% !important;
         margin-top: 1px !important;
     }
-    ._Satisfaction_heading {
-        font-size: 23px;
-    }
+ 
     ._footer_link {
         font-size: 13px !important;
         padding: 0 !important;
         margin: 0px !important;
+    }
+    ._Satisfaction_heading1 {
+        font-size: 22px;
+ 
     }
 }
