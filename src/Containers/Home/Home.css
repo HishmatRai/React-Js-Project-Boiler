@@ -1,0 +1,46 @@
+._main_div {
+    width: 100%;
+}
+
+.mb-0 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+._faqs_get_Start_btn {
+    margin-top: -120px;
+}
+
+._header_get_start_btn {
+    margin-top: -140px;
+}
+
+@media only screen and (max-width: 800px) {
+    ._header_get_start_btn {
+        margin-top: -100px;
+        margin-left: 20px !important;
+    }
+    ._about {
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    ._get_start_btn {
+        margin-left: 20px !important;
+    }
+    ._services {
+        margin-left: 20px !important;
+    }
+    ._card {
+        margin-left: 20% !important;
+    }
+    ._faqs_get_Start_btn {
+        margin-left: 20px !important;
+    }
+    ._satisfaction {
+        margin-left: 20px !important;
+    }
+    ._footer {
+        padding-left: 20px !important;
+    }
+}

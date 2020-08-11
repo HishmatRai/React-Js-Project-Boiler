@@ -1,0 +1,48 @@
+._header_background {
+    background-image: url('./../../img/dsads-01-01.jpg');
+    width: 100%;
+    height: 120vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mb-0 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+._header_heading_txt {
+    color: white;
+    font-size: 44px;
+    line-height: 1.3em;
+    padding-top: 40px;
+    text-align: center;
+}
+
+._header_youtube_video {
+    width: 100%;
+    height: 450px;
+    border: 10px solid white;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+    ._header_heading_txt {
+        font-size: 24px;
+        line-height: 1.3em;
+    }
+    ._header_youtube_video {
+        width: 100%;
+        height: auto;
+    }
+    ._header_background {
+        width: 100%;
+        height: 60vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

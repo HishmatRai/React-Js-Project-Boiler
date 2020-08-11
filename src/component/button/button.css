@@ -1,0 +1,17 @@
+._btn {
+    background-color: rgb(48, 204, 36) !important;
+    color: white !important;
+    padding: 10px !important;
+    width: 100% !important;
+    letter-spacing: 2px !important;
+    border-radius: 15px !important;
+    padding: 14px 22px !important;
+    margin-right: 24px !important;
+    height: 80px !important;
+    font-size: 20px !important
+}
+
+._btn:hover {
+    font-weight: bold !important;
+    font-size: 22px !important
+}

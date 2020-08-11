@@ -1,0 +1,49 @@
+.mb-0 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+._Satisfaction_img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+._Satisfaction_heading {
+    font-size: 36px;
+    color: rgb(12, 129, 187);
+    font-family: Lato;
+    font-weight: 400;
+}
+
+._Satisfaction_desc {
+    line-height: 1.7em;
+    color: rgb(51, 51, 51);
+    font-family: "Gentium Basic";
+    font-weight: 400;
+    font-size: 23px;
+}
+
+._did_you_know {
+    text-align: center;
+    font-size: 26px !important;
+    color: rgb(12, 129, 187);
+    font-family: Lato;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 800px) {
+    ._Satisfaction_img {
+        width: 50%;
+        margin-left: 30% !important;
+        margin-top: 1px !important;
+    }
+    ._Satisfaction_heading {
+        font-size: 23px;
+    }
+    ._did_you_know {
+        font-size: 13px !important;
+        border: 1px solid red;
+        padding: 0 !important;
+        margin: 0px !important;
+    }
+}

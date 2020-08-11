@@ -1,0 +1,90 @@
+.mb-0 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+._pricing {
+    text-align: center;
+    font-size: 46px;
+    color: rgb(12, 129, 187);
+    font-family: Lato;
+    font-weight: 400;
+}
+
+.CardImg1 {
+    width: 100%;
+}
+
+._mdbcard {
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}
+
+._card1_icon {
+    width: 50px;
+    height: 120px;
+}
+
+._card_value {
+    text-align: center;
+}
+
+._card_free_price {
+    font-size: 44px;
+    margin: 0px 10px 0px 10px;
+    font-weight: bold;
+}
+
+._tick_mark_iocn {
+    width: 10px;
+    height: 10px;
+}
+
+._Card_txt {
+    font-size: 14px;
+    color: rgb(105, 123, 143) !important;
+    margin-left: 10% !important;
+}
+
+._card_sub_heading {
+    color: rgb(105, 123, 143)
+}
+
+._card2_icon {
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+._card3_icon {
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+._card4_icon {
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+._icon_div {
+    margin-top: -120px;
+    align-items: center;
+    text-align: center;
+}
+
+._card_heading {
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+@media only screen and (max-width: 800px) {
+    ._tick_mark_iocn {
+        margin-left: 10%;
+    }
+}

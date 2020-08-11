@@ -1,0 +1,20 @@
+._faqs_background_img {
+    background-image: url('./../../img/faqs-01-01.png');
+    width: 100%;
+    height: 190vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mb-0 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+._heading {
+    color: white;
+    margin-top: 220px;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 80px;
+}
