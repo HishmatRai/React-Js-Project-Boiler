@@ -17,8 +17,8 @@ export default function setisfaction() {
                         <p className="_Satisfaction_heading">100% Satisfaction Guarantee</p>
                         <p className="_Satisfaction_desc">You are fully protected by our 100% Satisfaction-Guarantee. Our free plan will remain free forever. On our paid plans, we don't charge until you get at least two (2) verified reviews on your first audiobook listing. It's a win-win.</p>
                         <br />
-                        <p className="_did_you_know">
-                            <a href="" className="_link">
+                        <p className="_footer_link">
+                            <a href="" className="__footer_link_color">
                                 Yes, I want to start getting reviews now! </a></p>
                         <br /><br />
                     </MDBCol>

@@ -12,7 +12,7 @@ import TickMarkIcon from './../../img/tick-mark-icon-png-7.png'
 import { MDBCard, MDBCol, MDBRow} from "mdbreact";
 export default function Card() {
     return (
-        <MDBRow className="mb-0">
+        <MDBRow className="mb-0 _card_2" >
             <MDBCol sm="1">
             </MDBCol>
             <MDBCol sm="10">

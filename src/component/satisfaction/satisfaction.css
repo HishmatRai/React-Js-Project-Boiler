@@ -23,7 +23,7 @@
     font-size: 23px;
 }
 
-._did_you_know {
+._footer_link {
     text-align: center;
     font-size: 26px !important;
     color: rgb(12, 129, 187);
@@ -40,9 +40,8 @@
     ._Satisfaction_heading {
         font-size: 23px;
     }
-    ._did_you_know {
+    ._footer_link {
         font-size: 13px !important;
-        border: 1px solid red;
         padding: 0 !important;
         margin: 0px !important;
     }
